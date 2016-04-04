@@ -50,6 +50,6 @@
 + exponential # of local minima
 + saddle points
 + high dimension - local minima not critical point, they are saddle points (might have trouble escaping)
-+Genearlize from few examples - transfer knowledge from previous learning : Unsupervised learning
++Generalize from few examples - transfer knowledge from previous learning : Unsupervised learning
 
 [Video link to talk](http://videolectures.net/deeplearning2015_bengio_theoretical_motivations/)
