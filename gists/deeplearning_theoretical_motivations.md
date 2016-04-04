@@ -19,7 +19,7 @@
 + Discretizing space
 + Function is smooth, no difference between 2.2 and 2.3
 + Low dimension it works
-+ High dimension - trying to averagearound
++ High dimension - trying to average around
   * Ends up with nothing or a lot
   * can't average locally
 + not # of dimensions - # of variations in the functions
