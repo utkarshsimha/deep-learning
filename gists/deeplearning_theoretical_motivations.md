@@ -1,6 +1,6 @@
 ### Introduction
-+ Deep Learning - machine learning algorithms based on learning *multiple levels* of represnetaitons
-+ Capture high leevl abstractin -> generalize well
++ Deep Learning - machine learning algorithms based on learning *multiple levels* of representations
++ Capture high level abstraction -> generalize well
 
 ### No free lunch theory
 + Lots & lots of data!
