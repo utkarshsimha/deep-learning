@@ -1,6 +1,6 @@
 ### Introduction
-+ Deep Learning - machine learning algorithms based on learning *multiple levels* of represnetaitons
-+ Capture high leevl abstractin -> generalize well
++ Deep Learning - machine learning algorithms based on learning *multiple levels* of representations
++ Capture high level abstraction -> generalize well
 
 ### No free lunch theory
 + Lots & lots of data!
@@ -50,6 +50,6 @@
 + exponential # of local minima
 + saddle points
 + high dimension - local minima not critical point, they are saddle points (might have trouble escaping)
-+Genearlize from few examples - transfer knowledge from previous learning : Unsupervised learning
++Generalize from few examples - transfer knowledge from previous learning : Unsupervised learning
 
 [Video link to talk](http://videolectures.net/deeplearning2015_bengio_theoretical_motivations/)
