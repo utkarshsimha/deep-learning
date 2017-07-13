@@ -1,7 +1,7 @@
-# deep-learning
+## deep-learning
 Implementations of Deep Neural Networks, Recurrent Neural Networks and Convolutional Neural Networks and other deep learning architectures and techniques
 
-#Description of files:
+# Description of files:
 * tf_acoustic_embedding: Acoustic embeddings on the TIMIT dataset using Variational Autoencoders
 * tf_cnn: Convolution Neural Network teseted on notMNIST dataset
 * tf_sentiment_analyzer: Sentiment analysis using Convolution Neural Networks
